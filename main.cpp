@@ -82,9 +82,3 @@ int main() {
 
 	return 0;
 }
-
-
-
-/*  ravesli.com - P1 #2
-	'Rock Paper Scissor'
-*/ 
